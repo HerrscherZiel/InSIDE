@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1471d554-5cf9-48a4-be1d-d986d4bcde5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_08_152040_keuangan.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_09_08_152040_keuangan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_08_155109_event_kalender.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_09_08_155109_event_kalender.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_09_08_162847_activity_log.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_09_08_162847_activity_log.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_152040_keuangan.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-end-line="35" />
+            <state relative-caret-position="275">
+              <caret line="24" column="11" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="24" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -46,20 +47,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_155406_absensi.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="224">
+              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="20" selection-end-column="91" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_161350_data_member.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="357">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_162847_activity_log.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_155109_event_kalender.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -80,6 +99,10 @@
         <option value="$PROJECT_DIR$/database/migrations/2019_09_08_152040_keuangan.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_09_08_154631_anggota_kelas.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_09_08_155406_absensi.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_09_08_155109_event_kalender.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_09_08_161350_data_member.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_09_08_162847_activity_log.php" />
       </list>
     </option>
   </component>
@@ -173,7 +196,7 @@
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -265,25 +288,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567947072037</updated>
-      <workItem from="1567947073275" duration="8836000" />
+      <workItem from="1567947073275" duration="10927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8836000" />
+    <option name="totallyTimeSpent" value="10927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="10" y="20" width="1346" height="728" extended-state="0" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36469674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.53277314" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -297,6 +319,28 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -340,20 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_152040_keuangan.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_154631_anggota_kelas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -361,10 +391,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_152040_keuangan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="24" column="11" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_152031_kalendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_155406_absensi.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        <state relative-caret-position="224">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="20" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_155109_event_kalender.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_161350_data_member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_08_162847_activity_log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
         </state>
       </provider>
     </entry>

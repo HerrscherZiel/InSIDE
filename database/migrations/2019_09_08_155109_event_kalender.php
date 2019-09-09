@@ -21,7 +21,7 @@ class EventKalender extends Migration
             $table->date('tgl_selesai');
             $table->string('warna');
 			$table->integer('kalender_id')->unsigned()->nullable();
-            $table->foreign('kalender_id')->references('id_kalender')->on('kalender')->onDelete('cascade');
+            $table->foreign('kalender_id')->references('id_kalendar')->on('kalendar')->onDelete('cascade');
             $table->timestamps();
         });
     }

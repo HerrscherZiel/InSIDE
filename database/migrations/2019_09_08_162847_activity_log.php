@@ -22,7 +22,7 @@ class ActivityLog extends Migration
             $table->text('izin');
 			$table->integer('teacher_id')->unsigned()->nullable();
 			$table->integer('kelas_id')->unsigned()->nullable();
-            $table->foreign('teacher_id')->references('id_teacher')->on('mapel')->onDelete('cascade');
+            $table->foreign('teacher_id')->references('id_teacher')->on('teacher')->onDelete('cascade');
 			$table->foreign('kelas_id')->references('id_kelas')->on('kelas')->onDelete('cascade');
             $table->timestamps();
         });
