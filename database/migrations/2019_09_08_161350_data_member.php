@@ -16,7 +16,7 @@ class DataMember extends Migration
         //
         Schema::create('data_member', function (Blueprint $table) {
             $table->increments('id_data_member');
-            $table->string('nama_lenngkap');
+            $table->string('nama_lengkap');
             $table->string('tempat_lahir');
             $table->string('gender');
             $table->text('alamat');

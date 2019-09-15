@@ -61,6 +61,20 @@
                             </div>
                         </div>
 
+                        <input type="hidden" value="2" name="status">
+
+
+                        {{--                        <div class="form-group">--}}
+{{--                            <label for="">Role</label>--}}
+{{--                            <select name="role" class="form-control {{ $errors->has('role') ? 'is-invalid':'' }}" required>--}}
+{{--                                <option value="">Pilih</option>--}}
+{{--                                @foreach ($role as $row)--}}
+{{--                                    <option value="{{ $row->name }}">{{ $row->name }}</option>--}}
+{{--                                @endforeach--}}
+{{--                            </select>--}}
+{{--                            <p class="text-danger">{{ $errors->first('role') }}</p>--}}
+{{--                        </div>--}}
+
                         <div class="form-group row mb-0">
                             <div class="col-md-6 offset-md-4">
                                 <button type="submit" class="btn btn-primary">
